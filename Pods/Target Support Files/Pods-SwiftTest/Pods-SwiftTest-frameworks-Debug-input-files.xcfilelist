@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-SwiftTest/Pods-SwiftTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SQLiteSwift3/SQLiteSwift3.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

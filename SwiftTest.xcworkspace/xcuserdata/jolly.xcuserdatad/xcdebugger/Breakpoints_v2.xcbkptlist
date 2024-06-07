@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2FA69CE5-0562-44C6-AB7F-FD4A0FAF2329"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29523EC2-6B3E-4A45-B117-B2EF323E1BA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Calculator/View/JLScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "inputContent(content:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29523EC2-6B3E-4A45-B117-B2EF323E1BA9 - eec773be1421e67e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3193">
+               </Location>
+               <Location
+                  uuid = "29523EC2-6B3E-4A45-B117-B2EF323E1BA9 - eec773be1421e67e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2996">
+               </Location>
+               <Location
+                  uuid = "29523EC2-6B3E-4A45-B117-B2EF323E1BA9 - eec773be1421e734"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B4ADEB7-C328-40AA-BFB4-1E9A8456CAD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Calculator/View/JLScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "inputContent(content:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B4ADEB7-C328-40AA-BFB4-1E9A8456CAD5 - eec773be1421d86e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "3B4ADEB7-C328-40AA-BFB4-1E9A8456CAD5 - eec773be1421d86e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "3B4ADEB7-C328-40AA-BFB4-1E9A8456CAD5 - eec773be1421d86e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "791">
+               </Location>
+               <Location
+                  uuid = "3B4ADEB7-C328-40AA-BFB4-1E9A8456CAD5 - eec773be1421d924"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLScreen.inputContent(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/View/JLScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E672CB08-B7D7-4566-B51E-A39A3EF5AE0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Calculator/ViewController/JLCalculatorVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E672CB08-B7D7-4566-B51E-A39A3EF5AE0A - 6f6ead9e62c8a46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLCalculatorVC.boardBtnClick(content: Swift.String) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/ViewController/JLCalculatorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "E672CB08-B7D7-4566-B51E-A39A3EF5AE0A - aa08d247a91e2e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLCalculatorVC.viewDidLoad() -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/ViewController/JLCalculatorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "E672CB08-B7D7-4566-B51E-A39A3EF5AE0A - aa08d247a91e2bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLCalculatorVC.viewDidLoad() -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/Calculator/ViewController/JLCalculatorVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E22E492F-D7ED-426A-9F57-CE0D14CE7193"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/NoteBook/Model/JLDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getGroupData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD9B993B-A071-4E81-8138-A3001FCBFB4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/NoteBook/Model/JLDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getGroupData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0F30EE1-59B9-46A4-8803-3D5AA57C49F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/NoteBook/VC/JLNoteBookHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BDE221E-65AE-49EB-9EA6-5C210846EB69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/NoteBook/Model/JLDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getGroupData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BDE221E-65AE-49EB-9EA6-5C210846EB69 - 4b477bc38adf5a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;&gt;) -&gt; () in static SwiftTest.JLDataManager.getGroupData() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/NoteBook/Model/JLDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "6BDE221E-65AE-49EB-9EA6-5C210846EB69 - de18d4dfe13c0dd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;&gt;) -&gt; () in static SwiftTest.JLDataManager.getGroupData() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/NoteBook/Model/JLDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44858352-A378-4713-83FA-7828DAAC18BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF10FDF-156D-4433-9366-E619338182A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - 33bc32831fea69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "38396">
+               </Location>
+               <Location
+                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - f676a7944810eaa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #17 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - 33bc32831fe81d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "39688">
+               </Location>
+               <Location
+                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - a0fb0a835521a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #19 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 33bc32831fe991"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "40980">
+               </Location>
+               <Location
+                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 97f6cc4215898187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #21 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "356"
+                  endingLineNumber = "356"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "367"
+            endingLineNumber = "367"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - 33bc32831fef05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "367"
+                  endingLineNumber = "367"
+                  offsetFromSymbolStart = "42276">
+               </Location>
+               <Location
+                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - a18bb45e75aeed09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #23 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - 33bc32831fecd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "380"
+                  endingLineNumber = "380"
+                  offsetFromSymbolStart = "43572">
+               </Location>
+               <Location
+                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - bb5f1c7a55b358da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #25 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "381"
+                  endingLineNumber = "381"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - 33bc32831fe26b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "393"
+                  endingLineNumber = "393"
+                  offsetFromSymbolStart = "44864">
+               </Location>
+               <Location
+                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - d6f4c596b6578ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #27 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "394"
+                  endingLineNumber = "394"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - 33bc32831fe03c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "406"
+                  endingLineNumber = "406"
+                  offsetFromSymbolStart = "46156">
+               </Location>
+               <Location
+                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - e089adb2967ce07c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #29 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "407"
+                  endingLineNumber = "407"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "418"
+            endingLineNumber = "418"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 33bc32831fe1d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "419"
+                  endingLineNumber = "419"
+                  offsetFromSymbolStart = "47444">
+               </Location>
+               <Location
+                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 7674723c733157c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #31 ((Swift.Int, Swift.Int)) -&gt; Swift.Bool in SwiftTest.JLGameEngine.checkCanMove(item: SwiftTest.JLChessItem) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "420"
+                  endingLineNumber = "420"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66EB0BC5-F999-48B5-8505-CAFED739A50B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
+            landmarkName = "checkCanMove(item:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0410890-A637-46A2-8D86-61280593BF44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ChineseChess/VC/JLChineseChessVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "startGame(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

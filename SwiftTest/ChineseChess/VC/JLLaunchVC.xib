@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JLLaunchVC" customModule="SwiftTest" customModuleProvider="target">
+            <connections>
+                <outlet property="musicBtn" destination="GIC-lP-YxZ" id="4eX-7I-Pjg"/>
+                <outlet property="startGame" destination="RQZ-89-a0m" id="dJX-0I-u1Y"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch1" translatesAutoresizingMaskIntoConstraints="NO" id="yym-j7-4Z6">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="中国象棋" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BUn-Le-2Uq">
+                    <rect key="frame" x="135.66666666666666" y="239" width="121.99999999999997" height="36"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                    <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RQZ-89-a0m">
+                    <rect key="frame" x="121.66666666666669" y="401" width="150" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="gey-cF-LId"/>
+                        <constraint firstAttribute="width" constant="150" id="yWB-O2-62A"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="开始游戏">
+                        <color key="titleColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="startGameClick:" destination="-1" eventType="touchUpInside" id="Mo8-la-YGw"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GIC-lP-YxZ">
+                    <rect key="frame" x="121.66666666666669" y="471" width="150" height="34"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="150" id="mCG-Wu-c8O"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="游戏：开">
+                        <color key="titleColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="musicBtnClick:" destination="-1" eventType="touchUpInside" id="XUH-Px-KwU"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="RQZ-89-a0m" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="6Wx-8y-Dsd"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="yym-j7-4Z6" secondAttribute="trailing" id="Etv-OP-xkB"/>
+                <constraint firstItem="yym-j7-4Z6" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="NoF-ir-5Rz"/>
+                <constraint firstItem="RQZ-89-a0m" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="OQe-A5-hhU"/>
+                <constraint firstItem="GIC-lP-YxZ" firstAttribute="top" secondItem="RQZ-89-a0m" secondAttribute="bottom" constant="20" id="a93-gQ-iVX"/>
+                <constraint firstItem="BUn-Le-2Uq" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="d1J-VV-V9d"/>
+                <constraint firstAttribute="bottom" secondItem="yym-j7-4Z6" secondAttribute="bottom" id="jFM-Xw-Obv"/>
+                <constraint firstItem="yym-j7-4Z6" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="ko9-s0-aKH"/>
+                <constraint firstItem="GIC-lP-YxZ" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="tx3-aw-fp2"/>
+                <constraint firstItem="BUn-Le-2Uq" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="180" id="ugt-HO-D5x"/>
+            </constraints>
+            <point key="canvasLocation" x="139.69465648854961" y="19.718309859154932"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="launch1" width="1024" height="1024"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
