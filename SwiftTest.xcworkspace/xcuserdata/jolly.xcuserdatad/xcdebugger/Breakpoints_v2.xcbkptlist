@@ -314,10 +314,10 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -330,13 +330,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "331"
-            endingLineNumber = "331"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "653"
+            endingLineNumber = "653"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - 33bc32831fea69"
+                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - 33bc32831f03e7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -346,12 +346,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "331"
-                  endingLineNumber = "331"
-                  offsetFromSymbolStart = "38396">
+                  startingLineNumber = "653"
+                  endingLineNumber = "653"
+                  offsetFromSymbolStart = "23095">
                </Location>
                <Location
-                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - f676a7944810eaa8"
+                  uuid = "0DF10FDF-156D-4433-9366-E619338182A4 - f676a7944810002a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -361,9 +361,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "332"
-                  endingLineNumber = "332"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "654"
+                  endingLineNumber = "654"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -378,13 +378,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "343"
-            endingLineNumber = "343"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "665"
+            endingLineNumber = "665"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - 33bc32831fe81d"
+                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - 33bc32831f019b"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -394,12 +394,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "343"
-                  endingLineNumber = "343"
-                  offsetFromSymbolStart = "39688">
+                  startingLineNumber = "665"
+                  endingLineNumber = "665"
+                  offsetFromSymbolStart = "23842">
                </Location>
                <Location
-                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - a0fb0a835521a"
+                  uuid = "BE72D9F7-91D9-4D6B-9519-821C70AAB9F6 - a0fb0a835bb98"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -409,9 +409,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "344"
-                  endingLineNumber = "344"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "666"
+                  endingLineNumber = "666"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -426,13 +426,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "354"
-            endingLineNumber = "354"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "676"
+            endingLineNumber = "676"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 33bc32831fe991"
+                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 33bc32831f070f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -442,12 +442,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "355"
-                  endingLineNumber = "355"
-                  offsetFromSymbolStart = "40980">
+                  startingLineNumber = "677"
+                  endingLineNumber = "677"
+                  offsetFromSymbolStart = "24589">
                </Location>
                <Location
-                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 97f6cc4215898187"
+                  uuid = "9536C6C0-4B57-481C-9FD2-B4283394EABF - 97f6cc4215896f05"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -457,9 +457,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "356"
-                  endingLineNumber = "356"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "678"
+                  endingLineNumber = "678"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -474,13 +474,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "367"
-            endingLineNumber = "367"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "689"
+            endingLineNumber = "689"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - 33bc32831fef05"
+                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - 33bc32831f0483"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -490,12 +490,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "367"
-                  endingLineNumber = "367"
-                  offsetFromSymbolStart = "42276">
+                  startingLineNumber = "689"
+                  endingLineNumber = "689"
+                  offsetFromSymbolStart = "25340">
                </Location>
                <Location
-                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - a18bb45e75aeed09"
+                  uuid = "639F4E52-8655-4C95-8555-9D2143A6C92A - a18bb45e75ae068b"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -505,9 +505,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "368"
-                  endingLineNumber = "368"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "690"
+                  endingLineNumber = "690"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -522,13 +522,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "380"
-            endingLineNumber = "380"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "702"
+            endingLineNumber = "702"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - 33bc32831fecd6"
+                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - 33bc32831f3a54"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -538,12 +538,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "380"
-                  endingLineNumber = "380"
-                  offsetFromSymbolStart = "43572">
+                  startingLineNumber = "702"
+                  endingLineNumber = "702"
+                  offsetFromSymbolStart = "26091">
                </Location>
                <Location
-                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - bb5f1c7a55b358da"
+                  uuid = "9EA41EFC-ABE9-4443-B04E-67AA1F7040CC - bb5f1c7a55b38e58"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -553,9 +553,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "381"
-                  endingLineNumber = "381"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "703"
+                  endingLineNumber = "703"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -570,13 +570,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "393"
-            endingLineNumber = "393"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "715"
+            endingLineNumber = "715"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - 33bc32831fe26b"
+                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - 33bc32831f3be9"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -586,12 +586,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "393"
-                  endingLineNumber = "393"
-                  offsetFromSymbolStart = "44864">
+                  startingLineNumber = "715"
+                  endingLineNumber = "715"
+                  offsetFromSymbolStart = "26838">
                </Location>
                <Location
-                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - d6f4c596b6578ca7"
+                  uuid = "797A2459-8A3F-43AC-810E-EACA9CD5A24E - d6f4c596b6575629"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -601,9 +601,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "394"
-                  endingLineNumber = "394"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "716"
+                  endingLineNumber = "716"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -618,13 +618,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "405"
-            endingLineNumber = "405"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "727"
+            endingLineNumber = "727"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - 33bc32831fe03c"
+                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - 33bc32831f39ba"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -634,12 +634,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "406"
-                  endingLineNumber = "406"
-                  offsetFromSymbolStart = "46156">
+                  startingLineNumber = "728"
+                  endingLineNumber = "728"
+                  offsetFromSymbolStart = "27585">
                </Location>
                <Location
-                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - e089adb2967ce07c"
+                  uuid = "BAB56692-B094-4A5C-ADCD-C3EF28E211AF - e089adb2967c39fa"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -649,9 +649,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "407"
-                  endingLineNumber = "407"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "729"
+                  endingLineNumber = "729"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -666,13 +666,13 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "418"
-            endingLineNumber = "418"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
+            startingLineNumber = "740"
+            endingLineNumber = "740"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 33bc32831fe1d1"
+                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 33bc32831f3f4f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -682,12 +682,12 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "419"
-                  endingLineNumber = "419"
-                  offsetFromSymbolStart = "47444">
+                  startingLineNumber = "741"
+                  endingLineNumber = "741"
+                  offsetFromSymbolStart = "28328">
                </Location>
                <Location
-                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 7674723c733157c4"
+                  uuid = "FE69FEEA-51A3-4E6E-9745-268AAD0F7F7F - 7674723c73318946"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -697,9 +697,9 @@
                   urlString = "file:///Users/jolly/Desktop/RNStudy/SwiftTest/SwiftTest/ChineseChess/Model/JLGameEngine.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "420"
-                  endingLineNumber = "420"
-                  offsetFromSymbolStart = "113">
+                  startingLineNumber = "742"
+                  endingLineNumber = "742"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -714,26 +714,10 @@
             filePath = "SwiftTest/ChineseChess/Model/JLGameEngine.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "323"
-            endingLineNumber = "323"
-            landmarkName = "checkCanMove(item:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D0410890-A637-46A2-8D86-61280593BF44"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SwiftTest/ChineseChess/VC/JLChineseChessVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "startGame(_:)"
-            landmarkType = "7">
+            startingLineNumber = "645"
+            endingLineNumber = "645"
+            landmarkName = "JLGameEngine"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
